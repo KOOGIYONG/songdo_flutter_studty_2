@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'note/text_filed.dart';
 import 'page/bmi_calculator_page_2.dart';
 import 'page/counter_page.dart';
-import 'page/Todo.dart';
+import 'page/TodoPage.dart';
 
 var sex = 0;
 var bmi;
